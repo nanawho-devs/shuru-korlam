@@ -1,1 +1,3 @@
 # shuru-korlam
+this is my first repository 
+author - shahid
